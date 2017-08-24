@@ -7,3 +7,5 @@ _Create new passages like this:_<br>
 
 _Add links:_<br>
 Add links \[\[like this\]\] just like a normal Twine game
+
+The first passage must have pid=\"1\" or else Twine doesn't know where to start the story
