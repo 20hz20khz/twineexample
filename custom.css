@@ -10,7 +10,7 @@ tw-story {
 }
 
 tw-link {
-  color:darkblue; /* Set the link color to darkblue */
+  color: darkblue; /* Set the link color to darkblue */
   transition: color .5s ease-in-out;
 }
 
